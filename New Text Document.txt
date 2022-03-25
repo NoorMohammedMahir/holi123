@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <link rel="shortcut icon" href="https://www.flaticon.com/premium-icon/icons/svg/2555/2555866.svg">
+        <style>
+              body{
+    border:white 10px dashed;
+    background-image: url(https://i0.wp.com/lotgrafix.com/wp-content/uploads/2019/04/34-asana-color-gradient.jpg?fit=1200%2C675&ssl=1); 
+}
+</style>
+    </head>
+    <body style="text-align: center;">
+        <h1>HOLI WEBSITE(MADE BY NOOR)</h1>
+        <h3>to see a quiz of holi click:holi quiz</h3>
+        <h3>to see the information(about)holi and some facts click:about holi</h3>
+        <h2>please check my quiz of holi!!!</h2>
+        <header>
+            <nav>
+                <ul>
+             <button style="color:;background-color:white;font-size:40px"> <li><a href="holi quiz.html">holi quiz</a></li> </button>
+             <button style="color:white;background-color:white;font-size:40px"> <li><a href="about holi.html">about holi</a></li> </button>
+                    </ul>
+                </nav>
+            </header>
+            <p>
+                HOLI IS A FESTIVAL MADE WITH LOVE IT IS NOT ONLY A FESTIVAL OF COLOURS BUT IT HAS THE TRADITION ,OLD MEMORIES ETC.<BR>
+                    THANKS FOR COMING IN MY WEBSITE IF YOU WANT TO SEE MORE PLEASE CHECK ABOVE INSTRUCTIONS<BR>
+                        I MADE A QUIZ AND WROTE ABOUT HOLI ...PLEASE ENJOY!!!!!!
+            </p>
+            
+            <img src="https://24newsdaily.com/wp-content/uploads/2022/03/Holi.jpg" width="400px" height="350px">
+            <img src="https://tse3.mm.bing.net/th?id=OIF.t6FBFZMD7GREuBGaiW5ibQ&pid=Api&P=0&w=175&h=107" width="400px" height="350px">
+
+<footer>
+    @copyright 2022
+    made by Noor Mohammed
+</footer>
+
+    </body>
+</html>
